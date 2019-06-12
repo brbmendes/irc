@@ -1,2 +1,2 @@
 # irc
-Trabalho de Laboratório de Redes II - PUCRS - 2019/1
+Trabalho de Laboratório de Redes - PUCRS - 2019/1
